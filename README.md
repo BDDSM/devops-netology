@@ -17,5 +17,6 @@
     - файл, имя которого равно "terraform" и расширение "rc".
 
 2. Репозитарий продублирован в:
-    https://gitlab.com/Dach-Coin/devops-netology
-    https://bitbucket.org/Dach-Coin/devops-netology
+    https://gitlab.com/Dach-Coin/devops-netology и https://bitbucket.org/Dach-Coin/devops-netology
+
+ДЗ 2.2: произвольная строка, обозначающая изменение в ветке fix
