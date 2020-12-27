@@ -15,3 +15,7 @@
     - файлы, имя которых содержит и заканчивается на строку "_override.tf" и имеющие расширение "json";
     - файлы, расширение которых равно "terraformrc";
     - файл, имя которого равно "terraform" и расширение "rc".
+
+2. Репозитарий продублирован в:
+    https://gitlab.com/Dach-Coin/devops-netology
+    https://bitbucket.org/Dach-Coin/devops-netology
